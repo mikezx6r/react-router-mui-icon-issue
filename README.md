@@ -17,6 +17,11 @@ Commenting out the icon will allow for successful render of the icon
 
 ## Issues filed
 
-React-router: https://github.com/remix-run/react-router/issues/12449
+### React Router
+https://github.com/remix-run/react-router/issues/12449
+Closed as it is a MUI issue as per below
 
-Possible MUI issue (created by other): https://github.com/mui/material-ui/issues/43980
+### MUI
+MUI issue (created by other): https://github.com/mui/material-ui/issues/43980
+
+This explains situation, and appears to be in progress. Will follow it
